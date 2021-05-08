@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<inkscape-extension xmlns="http://www.inkscape.org/namespace/inkscape/extension">
+  <name>Areas - Compute</name>
+  <id>fr.loufabiloub.inkscape.areas_compute</id>
+  <dependency type="executable" location="extensions">areas_compute.py</dependency>
+  
+  <effect>
+  <object-type>path</object-type>
+  <effects-menu>
+      <submenu name="Arrange"/>
+  </effects-menu>
+</effect>
+
+  <script>
+    <command reldir="extensions" interpreter="python">areas_compute.py</command>
+  </script>
+</inkscape-extension>

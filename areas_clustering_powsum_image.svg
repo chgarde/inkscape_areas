@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="59.028488mm"
+   height="77.147308mm"
+   viewBox="0 0 59.028487 77.14731"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0.2 (1.0.2+r75+1)"
+   sodipodi:docname="areas_clustering_powsum_image.svg">
+  <defs
+     id="defs2">
+    <marker
+       style="overflow:visible"
+       id="Arrow1Lend"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path869" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Lstart"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lstart"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(0.8,0,0,0.8,10,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path866" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Lstart-0"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lstart"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(0.8,0,0,0.8,10,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path866-3" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Lend-6"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path869-1" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Lstart-0-6"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lstart"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(0.8,0,0,0.8,10,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path866-3-3" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Lend-6-2"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path869-1-0" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.8083034"
+     inkscape:cx="108.46277"
+     inkscape:cy="181.57044"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:window-width="1853"
+     inkscape:window-height="1025"
+     inkscape:window-x="67"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:document-rotation="0"
+     fit-margin-top="3"
+     fit-margin-left="3"
+     fit-margin-right="3"
+     fit-margin-bottom="3"
+     lock-margins="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid832"
+       spacingx="2.6458333"
+       spacingy="2.6458333"
+       empspacing="1"
+       originx="-198.70327"
+       originy="-83.952182" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-198.70329,-80.952171)">
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.1901;stop-color:#000000"
+       id="rect836"
+       width="26.993809"
+       height="62.985531"
+       x="227.64291"
+       y="84.826958"
+       ry="2.6780293e-07" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.234951px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 227.64293,138.81457 h 26.99381"
+       id="path838" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#path838"
+       id="use860"
+       width="100%"
+       height="100%"
+       transform="translate(-1.3590516e-6,-17.995874)" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.450605;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#Arrow1Lstart);marker-end:url(#Arrow1Lend)"
+       d="M 223.14395,84.826959 V 120.81869"
+       id="path864" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.318625;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#Arrow1Lstart-0);marker-end:url(#Arrow1Lend-6)"
+       d="m 223.14397,120.81871 v 17.99586"
+       id="path864-0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.214204;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#Arrow1Lstart-0-6);marker-end:url(#Arrow1Lend-6-2)"
+       d="m 223.14397,140.0182 v 8.13331"
+       id="path864-0-6" />
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-size:4.44023px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Italic';letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;stroke-width:0.277514"
+       x="205.03281"
+       y="144.97572"
+       id="text1532"><tspan
+         sodipodi:role="line"
+         id="tspan1530"
+         x="205.03281"
+         y="144.97572"
+         style="stroke-width:0.277514">delta</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.44023px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;stroke-width:0.277514"
+       x="201.79694"
+       y="131.65088"
+       id="text1532-5"><tspan
+         sodipodi:role="line"
+         id="tspan1612"
+         x="201.79694"
+         y="131.65088"
+         style="stroke-width:0.277514">delta x f</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.44023px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;stroke-width:0.277514"
+       x="201.26814"
+       y="104.38123"
+       id="text1532-5-4"><tspan
+         sodipodi:role="line"
+         id="tspan1614"
+         x="201.26814"
+         y="104.38123"
+         style="stroke-width:0.277514">delta x f²</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-size:4.91763px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Italic';letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;stroke-width:0.307352"
+       x="231.74826"
+       y="144.82167"
+       id="text1618"><tspan
+         sodipodi:role="line"
+         id="tspan1616"
+         x="231.74826"
+         y="144.82167"
+         style="stroke-width:0.307352">cluster 1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.91763px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;stroke-width:0.307352"
+       x="231.61302"
+       y="131.57764"
+       id="text1618-1"><tspan
+         sodipodi:role="line"
+         id="tspan1656"
+         x="231.61302"
+         y="131.57764"
+         style="stroke-width:0.307352">cluster 2</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.91763px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;stroke-width:0.307352"
+       x="231.64006"
+       y="104.48065"
+       id="text1618-8"><tspan
+         sodipodi:role="line"
+         id="tspan1658"
+         x="231.64006"
+         y="104.48065"
+         style="stroke-width:0.307352">cluster 3</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.59918px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;stroke-width:0.224948"
+       x="215.95677"
+       y="155.04909"
+       id="text1300"><tspan
+         sodipodi:role="line"
+         id="tspan1302"
+         x="215.95677"
+         y="155.04909"
+         style="stroke-width:0.224948">delta = di * k</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-size:3.59918px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Italic';letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;stroke-width:0.224948"
+       x="236.13448"
+       y="153.42778"
+       id="text1306"><tspan
+         sodipodi:role="line"
+         id="tspan1304"
+         x="236.13448"
+         y="153.42778"
+         style="stroke-width:0.224948">n</tspan></text>
+  </g>
+</svg>

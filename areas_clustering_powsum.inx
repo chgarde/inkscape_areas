@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<inkscape-extension xmlns="http://www.inkscape.org/namespace/inkscape/extension">
+  <name>Areas - Clusterify - PowerSum</name>
+  <id>fr.loufabiloub.inkscape.areas_clustering_powsum</id>
+  <dependency type="executable" location="extensions">areas_clustering_powsum.py</dependency>
+
+  <hbox>
+    <label>This extension will move elements to layers depending on their area</label>
+  </hbox>
+  <spacer />
+  <hbox>
+
+    <vbox>
+      <param name="max_clusters" type="int" min="0" max="100" gui-text="Max nb of clusters">10</param>
+      <param name="di" type="float" appearance="full" min="0" max="100" gui-text="initial delta in % of min area (di)">10</param>
+      <param name="f" type="float" min="0" max="10" gui-text="delta multiplication factor (f)">2.5</param>
+      <param name="k" type="float" min="0" max="10" gui-text="delta search factor (k)">2.0</param>
+    </vbox>
+    <vbox>
+      <image>areas_clustering_powsum_image.svg</image>
+    </vbox>
+  </hbox>
+
+  <effect needs-live-preview="false">
+    <object-type>path</object-type>
+    <effects-menu>
+      <submenu name="Arrange" />
+    </effects-menu>
+  </effect>
+
+  <script>
+    <command reldir="extensions" interpreter="python">areas_clustering_powsum.py</command>
+  </script>
+</inkscape-extension>
